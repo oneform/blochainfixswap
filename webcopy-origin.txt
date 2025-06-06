@@ -1,0 +1,768 @@
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\index.htm
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Argent_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Argent_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Atomic_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Atomic_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Atwallet_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Atwallet_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Authereum_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Authereum_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Binance_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Binance_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Bitfrost_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Bitfrost_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Bitget_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Bitget_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Bitpay_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Bitpay_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Coin98_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Coin98_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Coinbase_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Coinbase_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Coinomi_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Coinomi_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Connect_wallet.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Connect_wallet.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Coolwallet_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Coolwallet_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/CybavoWallet_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\CybavoWallet_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/d'cent_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\d'cent_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Easypocket_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Easypocket_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Exodus_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Exodus_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Argent_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Argent_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Atomic_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Atomic_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Atwallet_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Atwallet_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Authereum_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Authereum_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Binance_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Binance_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Bitfrost_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Bitfrost_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Bitget_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Bitget_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Bitpay_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Bitpay_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Coin98_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Coin98_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Coinbase_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Coinbase_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Coinomi_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Coinomi_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Connect_wallet.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Connect_wallet.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Coolwallet_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Coolwallet_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/CybavoWallet_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\CybavoWallet_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/d'cent_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\d'cent_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Easypocket_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Easypocket_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Exodus_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Exodus_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/GridPlus_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\GridPlus_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Harmony_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Harmony_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Herewallet_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Herewallet_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Imtoken_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Imtoken_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Infinito_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Infinito_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Infinity_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Infinity_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Kadachain_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Kadachain_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Kepir_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Kepir_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Kucoin_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Kucoin_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Ledger_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Ledger_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Maiar_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Maiar_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Marixwallet_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Marixwallet_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/MetaMask_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\MetaMask_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Midas_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Midas_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/MyKey_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\MyKey_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Nash_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Nash_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Nomo_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Nomo_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Onto_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Onto_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Ownbit_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Ownbit_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/PeakDefi_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\PeakDefi_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Phantom_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Phantom_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Pillar_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Pillar_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Rainbow_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Rainbow_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Safepal_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Safepal_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Saitamask_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Saitamask_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Solflare_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Solflare_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Sollet_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Sollet_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Spark_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Spark_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Spatium_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Spatium_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Terra_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Terra_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Tokenary_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Tokenary_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Tokenpocket_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Tokenpocket_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Tomo_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Tomo_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Tonkeeper_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Tonkeeper_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Torus_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Torus_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Trust_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Trust_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Uniswap_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Uniswap_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/VIA_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\VIA_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Walleth.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Walleth.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Walletio.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Walletio.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/XDC_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\XDC_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/formsjs/Zelcore_form.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Zelcore_form.js
+Content Type: application/javascript
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/GridPlus_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\GridPlus_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Harmony_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Harmony_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Herewallet_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Herewallet_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 0.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 0.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 1.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 1.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 10.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 10.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 11.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 11.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 12.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 12.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 13.jpg
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 13.jpg
+Content Type: image/jpeg
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 14.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 14.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 15.jpg
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 15.jpg
+Content Type: image/jpeg
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 16.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 16.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 17.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 17.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 18.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 18.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 19.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 19.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 2.jpg
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 2.jpg
+Content Type: image/jpeg
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 20.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 20.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 21.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 21.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 22.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 22.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 23.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 23.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 24.jpg
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 24.jpg
+Content Type: image/jpeg
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 25.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 25.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 27.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 27.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 28.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 28.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 29.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 29.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 3.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 3.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 30.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 30.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 31.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 31.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 32.jpg
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 32.jpg
+Content Type: image/jpeg
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 33.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 33.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 34.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 34.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 35.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 35.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 36.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 36.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 37.jpg
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 37.jpg
+Content Type: image/jpeg
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 38.jpg
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 38.jpg
+Content Type: image/jpeg
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 39.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 39.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 4.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 4.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 40.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 40.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 41.jpg
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 41.jpg
+Content Type: image/jpeg
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 42.jpg
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 42.jpg
+Content Type: image/jpeg
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 43.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 43.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 44.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 44.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 45.jpg
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 45.jpg
+Content Type: image/jpeg
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 46.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 46.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 47.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 47.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 48.jpg
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 48.jpg
+Content Type: image/jpeg
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 49.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 49.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 5.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 5.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 50.jpg
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 50.jpg
+Content Type: image/jpeg
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 51.jpg
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 51.jpg
+Content Type: image/jpeg
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 52.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 52.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 53.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 53.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 54.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 54.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 55.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 55.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 56.jpeg
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 56.jpeg
+Content Type: image/jpeg
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 57.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 57.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 58.jpeg
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 58.jpeg
+Content Type: image/jpeg
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 59.jpeg
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 59.jpeg
+Content Type: image/jpeg
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 6.jpg
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 6.jpg
+Content Type: image/jpeg
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 60.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 60.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 61.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 61.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 7.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 7.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 8.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 8.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/asset 9.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\asset 9.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/images/hero-banner.png
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\hero-banner.png
+Content Type: image/png
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Imtoken_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Imtoken_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Infinito_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Infinito_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Infinity_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Infinity_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Kadachain_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Kadachain_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Kepir_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Kepir_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Kucoin_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Kucoin_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Ledger_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Ledger_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Maiar_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Maiar_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Marixwallet_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Marixwallet_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/MetaMask_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\MetaMask_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Midas_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Midas_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/MyKey_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\MyKey_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Nash_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Nash_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Nomo_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Nomo_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Okx_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Okx_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Onto_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Onto_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Ownbit_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Ownbit_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/PeakDefi_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\PeakDefi_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Phantom_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Phantom_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Pillar_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Pillar_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Rainbow_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Rainbow_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Safepal_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Safepal_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Saitamask_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Saitamask_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Solflare_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Solflare_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Sollet_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Sollet_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Spark_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Spark_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Spatium_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Spatium_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/styles/form.css
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\form.css
+Content Type: text/css
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/styles/styles.css
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\styles.css
+Content Type: text/css
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/styles/wallets.css
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\wallets.css
+Content Type: text/css
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Terra_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Terra_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Tokenary_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Tokenary_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Tokenpocket_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Tokenpocket_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Tomo_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Tomo_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Tonkeeper.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Tonkeeper.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Torus_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Torus_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Trust_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Trust_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Uniswap.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Uniswap.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/VIA_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\VIA_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Walleth.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Walleth.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Walletio.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Walletio.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/wallets.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\wallets.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/XDC_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\XDC_form.html
+Content Type: text/html
+
+Uri: https://blockchainspacetechnology.github.io/BlockChainTech/Zelcore_form.html
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\Zelcore_form.html
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\email.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@400;900&display=swap
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\css2-family-Montserratwght@400;900-display-swap
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://smtpjs.com/v3/smtp.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\smtp.js
+Content Type: application/javascript
+
+Uri: https://widgets.coingecko.com/coingecko-coin-price-marquee-widget.js
+File Name: c:\Downloaded Web Sites\blockchainspacetechnology.github.io\coingecko-coin-price-marquee-widget.js
+Content Type: application/javascript
+

@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+body main {
+  background: linear-gradient(to bottom, #002723, #008174, #00312d);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 3rem;
+}
+body main h1 {
+  text-align: center;
+  text-wrap: wrap;
+  font-size: 3rem;
+  margin-top: 6rem;
+  color: #fff;
+}
+body main p {
+  text-align: center;
+  color: white;
+  padding-top: 1rem;
+}
+body main .hero-banner {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.hero-banner img {
+  width: 70%;
+  height: auto;
+  /* border-radius: 20px; */
+  padding-bottom: 2rem;
+}
+.block-rec {
+  padding: 2rem 4rem;
+  background-color: #001f1c;
+  color: #fff;
+}
+.block-rec h1 {
+  /* text-align: center; */
+  padding: 2rem 0;
+}
+.block-rec a {
+  display: inline-block;
+  padding: 1rem 2rem;
+  border: 1px solid #00ffe5;
+  color: #00ffe5;
+  text-decoration: none;
+  margin-top: 1rem;
+}
+.block-rec a:hover {
+  background-color: #00ffe5;
+  color: #001f1c;
+}
+.make-selection {
+  background: linear-gradient(
+    to bottom,
+    #00312d,
+    #00312d,
+    #00695f,
+    #00695f,
+    #003124
+  ); /* Red, Green, Blue */
+  padding: 2rem 4rem;
+}
+.make-selection h1 {
+  padding-top: 2rem;
+  color: #fff;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Three columns with equal width */
+  gap: 1rem; /* Gap between grid items */
+  padding: 2rem 0;
+}
+
+.grid-item {
+  background-color: #00443e;
+  border-radius: 5px;
+  padding: 2rem; /* Padding for grid items */
+}
+.grid-item:hover {
+  outline: 1px solid #00ffe5;
+}
+.grid-item a {
+  text-decoration: none;
+  color: #fff;
+}
+.grid-item svg {
+  font-size: 25px;
+}
+.grid-item h4 {
+  margin: 1rem 0;
+}
+.grid-item span {
+  font-style: italic; /* Italicize span text */
+}
+footer {
+  background-color: #001f1c;
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 4rem;
+  align-items: center;
+  color: white;
+}
+footer a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  body main h1 {
+    font-size: 2rem;
+  }
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr); /* Two columns on smaller screens */
+  }
+  footer {
+    flex-direction: column;
+    gap: 2rem;
+    font-size: 15px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .grid-container {
+    grid-template-columns: 1fr; /* Single column on even smaller screens */
+  }
+}
